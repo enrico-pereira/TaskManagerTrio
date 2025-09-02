@@ -7,6 +7,7 @@ Execute o arquivo **`Tarefa.java`**.
 ✨ Será aberto um terminal com as seguintes opções:
 
 === TaskManagerTrio ===
+
 (1) ADICIONAR TAREFA
 
 (2) LISTAR TAREFA   
