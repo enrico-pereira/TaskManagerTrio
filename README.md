@@ -8,8 +8,11 @@ Execute o arquivo **`Tarefa.java`**.
 
 === TaskManagerTrio ===
 (1) ADICIONAR TAREFA
+
 (2) LISTAR TAREFA   
+
 (3) REMOVER TAREFA
+
 (4) SAIR
 
 
